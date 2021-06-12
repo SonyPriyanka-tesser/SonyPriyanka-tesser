@@ -822,7 +822,9 @@ class Test_004_CleanseINTColumn:
     def test_Cleanse_ConvertBIGINT(self, setup):
         self.logger.info("***************************Test_004_CleanseINTColumn*************************")
         self.driver = setup
-        self.driver.get(self.baseURL)
+        self.driver.get(self.
+
+                        baseURL)
         self.driver.maximize_window()
         self.lp = LoginPage(self.driver)
         self.lp.setUserName(self.username)
