@@ -1,0 +1,6 @@
+Sno	Fruits	Type	Veggies
+1	Apple	Add	Potato
+2	Banana	Sub	Tomato
+3	Chikoo	Mul	Onion
+4	Dragon fruit	Div	Chilli
+5	Kiwi	Mod	Cucumber
